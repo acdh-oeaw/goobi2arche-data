@@ -1,0 +1,25 @@
+PREFIX acdh: <https://vocabs.acdh.oeaw.ac.at/schema#>
+
+<http://127.0.0.1/api/>
+        a                          acdh:TopCollection;
+        acdh:hasContact            <http://viaf.org/viaf/262822701>;
+        acdh:hasContributor        <https://d-nb.info/gnd/1103248715>;
+        acdh:hasCoverageEndDate    "9999"^^<http://www.w3.org/2001/XMLSchema#date>;
+        acdh:hasCoverageStartDate  "1266"^^<http://www.w3.org/2001/XMLSchema#date>;
+        acdh:hasCreatedStartDate   "2028-12-31"^^<http://www.w3.org/2001/XMLSchema#date> , "2021-01-01"^^<http://www.w3.org/2001/XMLSchema#date>;
+        acdh:hasCurator            <https://arche.acdh.oeaw.ac.at/api/143680>;
+        acdh:hasDepositor          <http://viaf.org/viaf/262822701>;
+        acdh:hasDescription        "Digital reproductions of selected Objects from the Woldan Collection at the library of the Austrian Academy of Sciences.\r\nThe Woldan Collection is the estate of the Viennese lawyer and private scholar Erich Woldan, which was bequested to the OeAW in 1989, comprises approximately 11,000 titles in around 20,000 volumes or individual sheets from the late 15th to the early 20th century. In addition to maps, atlases, globes and views, this collection, which is exceptional in terms of the history of science, also contains specialist geographical literature and old legal writings and documents."@en;
+        acdh:hasDigitisingAgent    <http://viaf.org/viaf/262822701>;
+        acdh:hasIdentifier         <https://id.acdh.oeaw.ac.at/Volldigitalisierung\u0020Woldan>;
+        acdh:hasLicense            <https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0>;
+        acdh:hasLicensor           <http://viaf.org/viaf/262822701>;
+        acdh:hasLifeCycleStatus    <https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed>;
+        acdh:hasMetadataCreator    <http://viaf.org/viaf/262822701>;
+        acdh:hasOwner              <http://viaf.org/viaf/262822701>;
+        acdh:hasRelatedDiscipline  <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/105406>;
+        acdh:hasRightsHolder       <https://arche.acdh.oeaw.ac.at/api/21003>;
+        acdh:hasSubject            "historical atlases, historical geography, historical maps, historical views, legal history, voyages and travels"@en;
+        acdh:hasTitle              "Volldigitalisierung Woldan"@en;
+        acdh:hasUrl                "https://viewer.acdh.oeaw.ac.at/viewer"^^<http://www.w3.org/2001/XMLSchema#anyURI>;
+        acdh:hasUsedSoftware       "Goobi" .
