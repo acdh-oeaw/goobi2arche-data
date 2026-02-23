@@ -1,18 +1,18 @@
 PREFIX acdh: <https://vocabs.acdh.oeaw.ac.at/schema#>
 PREFIX api:  <https://arche.acdh.oeaw.ac.at/api/>
-PREFIX top:  <https://id.acdh.oeaw.ac.at/Volldigitalisierung Woldan>
+PREFIX top:  <https://id.acdh.oeaw.ac.at/woldan>
 
-<http://127.0.0.1/api/>
+<https://id.acdh.oeaw.ac.at/woldan/KVBlAM15/KVBlAM15_media>
         a                        acdh:Collection;
         acdh:hasCurator          api:143680;
         acdh:hasDate             "1590"^^<http://www.w3.org/2001/XMLSchema#date>;
         acdh:hasDepositor        <http://viaf.org/viaf/262822701>;
-        acdh:hasIdentifier       <https://id.acdh.oeaw.ac.at/Volldigitalisierung\u0020Woldan/KVBlAM15/KVBlAM15_media>;
+        acdh:hasIdentifier       <https://id.acdh.oeaw.ac.at/woldan/KVBlAM15/KVBlAM15_media>;
         acdh:hasLicense          <https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0>;
         acdh:hasLicensor         <http://viaf.org/viaf/262822701>;
         acdh:hasMetadataCreator  <http://viaf.org/viaf/262822701>;
         acdh:hasOaiSet           <https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool>;
         acdh:hasOwner            <http://viaf.org/viaf/262822701>;
         acdh:hasRightsHolder     api:21003;
-        acdh:hasTitle            "KVBlAM15_media"@en;
-        acdh:isPartOf            <https://id.acdh.oeaw.ac.at/Volldigitalisierung\u0020Woldan/KVBlAM15> .
+        acdh:hasTitle            "KVBlAM15_media"@und;
+        acdh:isPartOf            <https://id.acdh.oeaw.ac.at/woldan/KVBlAM15> .
