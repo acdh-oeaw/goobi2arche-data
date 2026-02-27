@@ -15,5 +15,6 @@ PREFIX top:  <https://id.acdh.oeaw.ac.at/woldan-test>
         acdh:hasOwner            <http://viaf.org/viaf/262822701>;
         acdh:hasRightsHolder     api:21003;
         acdh:hasTitle            "KVBlAM15_media"@und;
-        acdh:hasNextItem         <https://id.acdh.oeaw.ac.at/woldan-test/KVBlAM15/KVBlAM15_media/KVBlAM15_media_0001.jpg>;
-        acdh:isPartOf            <https://id.acdh.oeaw.ac.at/woldan-test/KVBlAM15> .
+        acdh:hasNextItem         <https://id.acdh.oeaw.ac.at/woldan/KVBlAM15/KVBlAM15_media/KVBlAM15_media_0001.jpg>;
+        acdh:hasTag              "IMAGE"@und;
+        acdh:isPartOf            <https://id.acdh.oeaw.ac.at/woldan/KVBlAM15> .
