@@ -14,4 +14,5 @@ PREFIX top:  <https://id.acdh.oeaw.ac.at/woldan>
         acdh:hasOwner            <http://viaf.org/viaf/262822701>;
         acdh:hasRightsHolder     api:21003;
         acdh:hasTitle            "KVBlAM15_master"@und;
+        acdh:hasNextItem         <https://id.acdh.oeaw.ac.at/woldan/KVBlAM15/KVBlAM15_master/KVBlAM15_master_0001.tif>;
         acdh:isPartOf            <https://id.acdh.oeaw.ac.at/woldan/KVBlAM15> .
