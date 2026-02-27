@@ -1,18 +1,18 @@
 PREFIX acdh: <https://vocabs.acdh.oeaw.ac.at/schema#>
 PREFIX api:  <https://arche.acdh.oeaw.ac.at/api/>
-PREFIX top:  <https://id.acdh.oeaw.ac.at/woldan>
+PREFIX top:  <https://id.acdh.oeaw.ac.at/woldan-test>
 
-<https://id.acdh.oeaw.ac.at/woldan/KVBlAM15/KVBlAM15_master>
+<https://id.acdh.oeaw.ac.at/woldan-test/KVBlAM15/KVBlAM15_master>
         a                        acdh:Collection;
         acdh:hasCurator          api:143680;
         acdh:hasDate             "1590"^^<http://www.w3.org/2001/XMLSchema#date>;
         acdh:hasDepositor        <http://viaf.org/viaf/262822701>;
-        acdh:hasIdentifier       <https://id.acdh.oeaw.ac.at/woldan/KVBlAM15/KVBlAM15_master>;
+        acdh:hasIdentifier       <https://id.acdh.oeaw.ac.at/woldan-test/KVBlAM15/KVBlAM15_master>;
         acdh:hasLicense          <https://vocabs.acdh.oeaw.ac.at/archelicenses/publicdomain-1-0>;
         acdh:hasLicensor         <http://viaf.org/viaf/262822701>;
         acdh:hasMetadataCreator  <http://viaf.org/viaf/262822701>;
         acdh:hasOwner            <http://viaf.org/viaf/262822701>;
         acdh:hasRightsHolder     api:21003;
         acdh:hasTitle            "KVBlAM15_master"@und;
-        acdh:hasNextItem         <https://id.acdh.oeaw.ac.at/woldan/KVBlAM15/KVBlAM15_master/KVBlAM15_master_0001.tif>;
-        acdh:isPartOf            <https://id.acdh.oeaw.ac.at/woldan/KVBlAM15> .
+        acdh:hasNextItem         <https://id.acdh.oeaw.ac.at/woldan-test/KVBlAM15/KVBlAM15_master/KVBlAM15_master_0001.tif>;
+        acdh:isPartOf            <https://id.acdh.oeaw.ac.at/woldan-test/KVBlAM15> .
