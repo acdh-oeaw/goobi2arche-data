@@ -13,6 +13,6 @@ PREFIX top:  <https://id.acdh.oeaw.ac.at/woldan>
         acdh:hasMetadataCreator  <http://viaf.org/viaf/262822701>;
         acdh:hasOwner            <http://viaf.org/viaf/262822701>;
         acdh:hasRightsHolder     api:21003;
-        acdh:hasTitle            "KVBlAM15_meta.xml"@en;
+        acdh:hasTitle            "KVBlAM15_meta.xml"@und;
         acdh:isMetadataFor       <https://id.acdh.oeaw.ac.at/woldan/KVBlAM15> , <https://id.acdh.oeaw.ac.at/pub-AC16327653>;
         acdh:isPartOf            <https://id.acdh.oeaw.ac.at/woldan/KVBlAM15> .
